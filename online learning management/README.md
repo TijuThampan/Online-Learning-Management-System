@@ -53,7 +53,6 @@ PORT=5000
 MONGO_URI=<your_MongoDB_URI>
 JWT_SECRET=<your_JWT_secret>
 CLOUDINARY_URL=<your_Cloudinary_url>
-RAZORPAY_KEY_ID=<your_Razorpay_key_id>
 System Usage
 Start the Server:
 
